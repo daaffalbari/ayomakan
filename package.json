@@ -1,6 +1,7 @@
 {
   "name": "react-express-clarifai",
   "version": "1.0.0",
+  "homepage": "https://www.tugasbesar.daffaalbari.site/",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +10,7 @@
     "start:dev": "nodemon ./app.js"
   },
   "engines": {
-    "node": "16.13.1"
+    "node": "16.14.2"
   },
   "author": "",
   "license": "ISC",
